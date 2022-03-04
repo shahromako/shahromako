@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Shahrom</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shahrom</h1>
 <h3 align="center">A passionate frontend developer from Tajikistan</h3>
 
 - 🔭 I’m currently working on [alif.shop market place](alifshop.tj)
@@ -218,4 +218,4 @@ Here are some ideas to get you started:
             height="40"
         />
     </a>
-</p>
+</p> -->
